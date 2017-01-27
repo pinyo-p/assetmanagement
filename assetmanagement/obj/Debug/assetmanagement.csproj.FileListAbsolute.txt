@@ -1,0 +1,16 @@
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\Database1.mdf
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\Database1_log.ldf
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\assetmanagement.exe.config
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\assetmanagement.exe.manifest
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\assetmanagement.application
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\assetmanagement.exe
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\assetmanagement.pdb
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.csprojResolveAssemblyReference.cache
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.Form1.resources
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.Properties.Resources.resources
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.csproj.GenerateResource.Cache
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.exe.manifest
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.application
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.exe
+C:\Users\FANGYVM\documents\visual studio 2013\Projects\assetmanagement\assetmanagement\obj\Debug\assetmanagement.pdb
